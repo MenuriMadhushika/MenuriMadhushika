@@ -1,12 +1,21 @@
-# Hi 👋 I'm Menuri Madhushika
+<h1 align="center">
+  Hi 👋, I'm Menuri Madhushika
+</h1>
 
-### Software Engineering Undergraduate | Full-Stack Development Enthusiast
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full-Stack+Development+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Improving"
+    alt="Typing SVG"
+  />
+</p>
 
-I'm a **BSc (Hons) Software Engineering undergraduate at NSBM Green University, Sri Lanka** with a strong interest in **full-stack and web development**.
+<p align="center">
+  <b>BSc (Hons) Software Engineering Undergraduate at NSBM Green University, Sri Lanka 🇱🇰</b>
+</p>
 
-I enjoy building practical applications, solving technical problems, exploring new technologies, and continuously improving my software engineering skills.
-
-Currently, I'm focused on strengthening my technical skills, building my portfolio, and preparing for a **Software Engineering Internship**. 🚀
+<p align="center">
+  Interested in Full-Stack Development, Web Development, Mobile Applications and AI-integrated software.
+</p>
 
 ---
 
@@ -14,11 +23,11 @@ Currently, I'm focused on strengthening my technical skills, building my portfol
 
 - 🎓 BSc (Hons) Software Engineering Undergraduate
 - 🏫 NSBM Green University
-- 💻 Interested in Full-Stack & Web Development
-- 📱 Exploring Mobile Application Development with Flutter
-- 🤖 Interested in AI/ML integration with software applications
+- 💻 Interested in **Full-Stack & Web Development**
+- 📱 Exploring **Mobile Application Development with Flutter**
+- 🤖 Interested in **AI/ML integration with software applications**
 - 🛠️ Enjoy building practical software projects
-- 🎯 Preparing for a Software Engineering Internship
+- 🎯 Preparing for a **Software Engineering Internship**
 - 📍 Sri Lanka 🇱🇰
 
 ---
@@ -27,46 +36,46 @@ Currently, I'm focused on strengthening my technical skills, building my portfol
 
 ### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,dart" />
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,dart" alt="Programming Languages"/>
 </p>
 
 ### Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css" alt="Frontend Technologies"/>
 </p>
 
 ### Backend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" alt="Backend Technologies"/>
 </p>
 
 ### Mobile Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile Development"/>
 </p>
 
 ### Databases
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
 </p>
 
 ### AI / Machine Learning
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch" />
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch"/>
 </p>
 
 `PyTorch` `TorchVision` `Transfer Learning` `Image Classification`
 
 ### Tools & Development
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,androidstudio" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,androidstudio" alt="Development Tools"/>
 </p>
 
 ---
@@ -79,7 +88,7 @@ Currently, I'm focused on strengthening my technical skills, building my portfol
 
 **AyurAI** is a full-stack AI-integrated skincare web application that combines machine learning with Ayurvedic-inspired personalized skincare guidance.
 
-The project includes work on two image-classification tasks:
+AyurAI incorporates work on **two AI-powered image classification components**:
 
 - 🔬 **Acne Severity Classification** — Mild, Moderate, Severe & Very Severe
 - 🧴 **Skin Type Classification** — Normal, Oily, Dry, Combination & Sensitive
@@ -99,26 +108,24 @@ The project includes work on two image-classification tasks:
 
 ### Built With
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,spring,fastapi,python,pytorch,mysql,docker" />
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,spring,fastapi,python,pytorch,mysql,docker" alt="AyurAI Technologies"/>
 </p>
 
 **Status:** 🚧 Under active development and continuous improvement.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=MenuriMadhushika&show_icons=true&hide_border=true&theme=transparent"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuriMadhushika&layout=compact&hide_border=true&theme=transparent"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuriMadhushika&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
   />
 </p>
+
+> GitHub statistics are based only on public repository activity and do not represent overall programming experience.
 
 ---
 
@@ -138,24 +145,24 @@ The project includes work on two image-classification tasks:
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/menuri-madhushika-263239314">
-  <img src="https://img.shields.io/badge/LinkedIn-Menuri%20Madhushika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Menuri%20Madhushika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:menurimadhushika@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/MenuriMadhushika">
-  <img src="https://img.shields.io/badge/GitHub-MenuriMadhushika-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-MenuriMadhushika-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
-  <b>✨ Learning Today • Building for Tomorrow 🚀</b>
-</p>
+<h3 align="center">
+  ✨ Learning Today • Building for Tomorrow 🚀
+</h3>
