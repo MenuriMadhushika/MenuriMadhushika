@@ -116,19 +116,6 @@ AyurAI incorporates work on **two AI-powered image classification components**:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuriMadhushika&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
-
-> GitHub statistics are based only on public repository activity and do not represent overall programming experience.
-
----
-
 ## 📚 Currently Learning & Improving
 
 - Full-Stack Web Development
