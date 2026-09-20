@@ -12,51 +12,66 @@ Currently, I'm focused on strengthening my technical skills, building my portfol
 
 ## 👩‍💻 About Me
 
-* 🎓 Undergraduate in **BSc (Hons) Software Engineering**
-* 🏫 Studying at **NSBM Green University**
-* 💻 Interested in **Full-Stack & Web Development**
-* 📱 Exploring **Mobile Application Development with Flutter**
-* 🤖 Interested in **AI/ML integration with software applications**
-* 🌱 Currently improving my skills in **Java, Spring Boot, React & Flutter**
-* 🛠️ I enjoy turning ideas into practical software projects
-* 🎯 Preparing for a **Software Engineering Internship**
-* 📍 Sri Lanka 🇱🇰
+- 🎓 BSc (Hons) Software Engineering Undergraduate
+- 🏫 NSBM Green University
+- 💻 Interested in Full-Stack & Web Development
+- 📱 Exploring Mobile Application Development with Flutter
+- 🤖 Interested in AI/ML integration with software applications
+- 🛠️ Enjoy building practical software projects
+- 🎯 Preparing for a Software Engineering Internship
+- 📍 Sri Lanka 🇱🇰
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### Languages
 
-`Java` `Python` `C` `C#` `JavaScript` `Dart`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,dart" />
+</p>
 
-### 🎨 Frontend Development
+### Frontend
 
-`React` `Vite` `HTML` `CSS`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css" />
+</p>
 
-### ⚙️ Backend Development
+### Backend
 
-`Spring Boot` `FastAPI` `REST APIs`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi" />
+</p>
 
-### 📱 Mobile Development
+### Mobile Development
 
-`Flutter` `Dart`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-### 🗄️ Databases
+### Databases
 
-`MySQL` `MongoDB`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</p>
 
 `PyTorch` `TorchVision` `Transfer Learning` `Image Classification`
 
-### 🔧 Tools & Technologies
+### Tools & Development
 
-`Git` `GitHub` `Postman` `Docker` `VS Code` `IntelliJ IDEA` `Android Studio`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea,androidstudio" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🌿 AyurAI — AI-Powered Ayurvedic Skincare Platform
 
@@ -64,62 +79,83 @@ Currently, I'm focused on strengthening my technical skills, building my portfol
 
 **AyurAI** is a full-stack AI-integrated skincare web application that combines machine learning with Ayurvedic-inspired personalized skincare guidance.
 
-The project includes work on **two image-classification tasks**:
+The project includes work on two image-classification tasks:
 
-* 🔬 **Acne Severity Classification** — classifies acne into **Mild, Moderate, Severe, and Very Severe**
-* 🧴 **Skin Type Classification** — classifies skin into **Normal, Oily, Dry, Combination, and Sensitive** types
+- 🔬 **Acne Severity Classification** — Mild, Moderate, Severe & Very Severe
+- 🧴 **Skin Type Classification** — Normal, Oily, Dry, Combination & Sensitive
 
-### ✨ Key Features
+### Key Features
 
-* 📸 AI-powered skin scanning
-* 🔬 Acne severity analysis
-* 🧴 Skin type classification
-* 🌿 Dosha assessment
-* 📊 Personalized overall results
-* 🌱 Ayurvedic home-remedy guidance
-* 🔐 User authentication
-* 👤 User profiles
-* 🕒 Skin-scan history
-* 🛡️ Admin dashboard
+- AI-powered skin scanning
+- Acne severity analysis
+- Skin type classification
+- Dosha assessment
+- Personalized overall results
+- Ayurvedic home-remedy guidance
+- JWT-based user authentication
+- User profiles
+- Skin-scan history
+- Admin dashboard
 
-### ⚙️ Tech Stack
+### Built With
 
-`React` `Vite` `Spring Boot` `FastAPI` `Python` `PyTorch` `MySQL` `JWT` `Docker`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,spring,fastapi,python,pytorch,mysql,docker" />
+</p>
 
-**Current Status:** 🚧 Under active development and continuous improvement.
+**Status:** 🚧 Under active development and continuous improvement.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MenuriMadhushika&show_icons=true&hide_border=true&theme=transparent"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MenuriMadhushika&layout=compact&hide_border=true&theme=transparent"
+    height="165"
+  />
+</p>
 
 ---
 
 ## 📚 Currently Learning & Improving
 
-* 🌐 Full-Stack Web Development
-* ☕ Java & Spring Boot
-* ⚛️ React
-* 📱 Flutter Mobile Development
-* 🤖 AI Integration with Web Applications
-* 🗄️ Advanced Database Management
-* 🧪 Software Quality Assurance
-* 🔐 Information Assurance & Security
-* 🏗️ Software Engineering Best Practices
-
----
-
-## 🎯 Current Goal
-
-I'm currently focused on strengthening my **software engineering fundamentals, full-stack development skills, and project portfolio** while preparing for a **Software Engineering Internship**.
-
-I enjoy learning new technologies, solving technical problems, and gaining hands-on experience by building practical projects.
+- Full-Stack Web Development
+- Java & Spring Boot
+- React
+- Flutter Mobile Development
+- AI Integration with Web Applications
+- Advanced Database Management
+- Software Quality Assurance
+- Information Assurance & Security
+- Software Engineering Best Practices
 
 ---
 
 ## 🤝 Let's Connect
 
-💼 **LinkedIn:** [Menuri Madhushika](https://www.linkedin.com/in/menuri-madhushika-263239314)
+<p align="left">
 
-💻 **GitHub:** [MenuriMadhushika](https://github.com/MenuriMadhushika)
+<a href="https://www.linkedin.com/in/menuri-madhushika-263239314">
+  <img src="https://img.shields.io/badge/LinkedIn-Menuri%20Madhushika-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-📧 **Email:** [menurimadhushika@gmail.com](mailto:menurimadhushika@gmail.com)
+<a href="mailto:menurimadhushika@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/MenuriMadhushika">
+  <img src="https://img.shields.io/badge/GitHub-MenuriMadhushika-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-### ✨ Learning Today • Building for Tomorrow 🚀
+<p align="center">
+  <b>✨ Learning Today • Building for Tomorrow 🚀</b>
+</p>
