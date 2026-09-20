@@ -1,24 +1,25 @@
-# Hi, I'm Menuri Madhushika 👋
+# Hi 👋 I'm Menuri Madhushika
 
-### 👩‍💻 Software Engineering Undergraduate | Full-Stack Development Enthusiast
+### 💻 Software Engineering Undergraduate | Full-Stack Development Enthusiast
 
-I'm a **BSc (Hons) Software Engineering undergraduate at NSBM Green University, Sri Lanka**, passionate about building practical software solutions and continuously improving my development skills.
+I'm a **BSc (Hons) Software Engineering undergraduate at NSBM Green University, Sri Lanka** with a strong interest in **full-stack and web development**.
 
-I enjoy working with **full-stack web development, mobile applications, databases, backend systems, and AI-integrated applications**.
+I enjoy building practical applications, solving technical problems, exploring new technologies, and continuously improving my software engineering skills.
 
-I'm currently building my technical skills and portfolio as I prepare for a **Software Engineering Internship**.
+Currently, I'm focused on strengthening my technical skills, building my portfolio, and preparing for a **Software Engineering Internship**. 🚀
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 **Software Engineering Undergraduate** at NSBM Green University
+* 🎓 Undergraduate in **BSc (Hons) Software Engineering**
+* 🏫 Studying at **NSBM Green University**
 * 💻 Interested in **Full-Stack & Web Development**
 * 📱 Exploring **Mobile Application Development with Flutter**
 * 🤖 Interested in **AI/ML integration with software applications**
-* 🌱 Currently improving my skills in **Java, Spring Boot, React, Flutter, and Software Engineering practices**
+* 🌱 Currently improving my skills in **Java, Spring Boot, React & Flutter**
 * 🛠️ I enjoy turning ideas into practical software projects
-* 🎯 Currently building **internship-ready projects and technical skills**
+* 🎯 Preparing for a **Software Engineering Internship**
 * 📍 Sri Lanka 🇱🇰
 
 ---
@@ -55,54 +56,37 @@ I'm currently building my technical skills and portfolio as I prepare for a **So
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Projects
 
-## 🌿 AyurAI — AI-Powered Ayurvedic Skincare Platform
+### 🌿 AyurAI — AI-Powered Ayurvedic Skincare Platform
 
-**AyurAI** is a full-stack, AI-integrated skincare web application that combines modern machine learning with Ayurvedic-inspired personalized skincare guidance.
+> 🚧 **Ongoing Project**
 
-The platform allows users to analyze their skin through uploaded images and receive personalized skincare information and care guidance.
+**AyurAI** is a full-stack AI-integrated skincare web application that combines machine learning with Ayurvedic-inspired personalized skincare guidance.
 
-### 🧠 Two AI Models
+The project includes work on **two image-classification tasks**:
 
-AyurAI integrates **two image-classification AI models**:
-
-**🔬 Acne Severity Classification**
-
-Analyzes facial skin images and classifies acne severity into:
-
-`Mild` • `Moderate` • `Severe` • `Very Severe`
-
-**🧴 Skin Type Classification**
-
-Analyzes skin images to estimate:
-
-`Normal` • `Oily` • `Dry` • `Combination` • `Sensitive`
+* 🔬 **Acne Severity Classification** — classifies acne into **Mild, Moderate, Severe, and Very Severe**
+* 🧴 **Skin Type Classification** — classifies skin into **Normal, Oily, Dry, Combination, and Sensitive** types
 
 ### ✨ Key Features
 
 * 📸 AI-powered skin scanning
-* 🧠 Two image-classification AI models
 * 🔬 Acne severity analysis
-* 🧴 Skin type estimation
+* 🧴 Skin type classification
 * 🌿 Dosha assessment
-* 📊 Personalized overall skin results
-* 📝 Personalized skincare care plans
+* 📊 Personalized overall results
 * 🌱 Ayurvedic home-remedy guidance
-* 🔐 JWT-based authentication
+* 🔐 User authentication
 * 👤 User profiles
 * 🕒 Skin-scan history
 * 🛡️ Admin dashboard
 
-### ⚙️ AyurAI Technology Stack
+### ⚙️ Tech Stack
 
-**Frontend:** React + Vite
-**Backend:** Java + Spring Boot
-**AI Service:** Python + FastAPI
-**Machine Learning:** PyTorch + TorchVision
-**Database:** MySQL
-**Authentication:** JWT
-**Development & Deployment:** Git + GitHub + Docker
+`React` `Vite` `Spring Boot` `FastAPI` `Python` `PyTorch` `MySQL` `JWT` `Docker`
+
+**Current Status:** 🚧 Under active development and continuous improvement.
 
 ---
 
@@ -122,13 +106,13 @@ Analyzes skin images to estimate:
 
 ## 🎯 Current Goal
 
-I'm currently focused on strengthening my **software engineering fundamentals, full-stack development skills, and project portfolio** while preparing for my first professional **Software Engineering Internship**.
+I'm currently focused on strengthening my **software engineering fundamentals, full-stack development skills, and project portfolio** while preparing for a **Software Engineering Internship**.
 
-I'm always interested in learning new technologies, solving technical problems, and gaining hands-on experience through real-world projects.
+I enjoy learning new technologies, solving technical problems, and gaining hands-on experience by building practical projects.
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 💼 **LinkedIn:** [Menuri Madhushika](https://www.linkedin.com/in/menuri-madhushika-263239314)
 
@@ -138,4 +122,4 @@ I'm always interested in learning new technologies, solving technical problems, 
 
 ---
 
-### ✨ Keep Learning • Keep Building • Keep Improving
+### ✨ Learning Today • Building for Tomorrow 🚀
