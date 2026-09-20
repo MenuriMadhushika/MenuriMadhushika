@@ -1,6 +1,6 @@
 # Hi 👋 I'm Menuri Madhushika
 
-### 💻 Software Engineering Undergraduate | Full-Stack Development Enthusiast
+### Software Engineering Undergraduate | Full-Stack Development Enthusiast
 
 I'm a **BSc (Hons) Software Engineering undergraduate at NSBM Green University, Sri Lanka** with a strong interest in **full-stack and web development**.
 
